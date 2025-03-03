@@ -1,0 +1,15 @@
+let SecondsInAMinute= 60;
+let MinuteInAHour= 60;
+let SecondsinaHour- SecondsInAMinute * MinuteInAHour;
+SecondsinaHour;
+// 3600
+
+let HoursinaDay= 24;
+Let SecondsinaDay= SecondsinaHour * HoursinaDay;
+SecondsinaDay;
+// 86400
+
+Let DaysinaYear= 365;
+Let SecondsinaYear= SecondsinaDay * DaysinaYear;
+SecondsinaYear;
+// 31536000
