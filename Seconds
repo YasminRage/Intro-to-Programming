@@ -1,5 +1,0 @@
-let SecondsInAMinute= 60;
-let MinuteInAHour= 60;
-let SecondsinaHour- SecondsInAMinute * MinuteInAHour;
-SecondsinaHour;
-// 3600
