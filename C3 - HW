@@ -1,0 +1,12 @@
+let randombodypart = ["Head", "Arms", "Ears"];
+let randomdescription = ["Big","Smelly", "Long"];
+let randomanimal = ["donkey","dog","pig","rat"];
+let animalbodypart = ["Tail", "Nose", "Fur"];
+
+
+let randomcomparisoninsult = "Your " + randomdescription[Math.floor(Math.random() * 3)] + randombodypart[Math.floor(Math.random() * 3)] + "is uglier than a" + randomanimal[Math.floor(Math.random() * 4)] + randomanimalbodypart [Math.floor(Math.random() * 3)]  "!!!";
+
+letrandomcomparisoninsult=
+"Your Big Head is uglier than a Smelly Rat Tail!!!"
+"Your Smelly Arms is uglier than a Long Dog Nose!!!"
+"Your Long Ears is uglier than a Big Pig Fur!!!
